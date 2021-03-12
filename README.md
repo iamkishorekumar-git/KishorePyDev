@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about Cucumber Framework
 - 🤔 I’m looking for help with Appium 
 - 💬 Ask me about Python,testing & Technical stuff
-- 📫 How to reach me: Linkedlin - KishorePyDev
+- 📫 How to reach me: [Linkedlin-KishorePyD]: [https://in.linkedin.com/in/kishorepydev]
 - 😄 Pronouns: I can, therefore I am.
 - ⚡ Fun fact: I love watching Tom & Jerry (till date Yes!)
 
