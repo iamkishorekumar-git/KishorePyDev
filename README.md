@@ -1,11 +1,10 @@
-### Bonjour there 👋
+### Bonjour there,I'm Kishore Kumar 👋
 
 
-**KishorePyDev/KishorePyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Quality Enginer & Enginer
+- 🔭 I’m currently working on Quality Enginer & Enginer at Cognizant
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
