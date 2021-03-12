@@ -9,3 +9,5 @@
 - 😄 Pronouns: I can, therefore I am.
 - ⚡ Fun fact: I love watching Tom & Jerry (till date Yes!)
 
+<img src="https://github-readme-stats.vercel.app/api?username=kishorepydev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+
