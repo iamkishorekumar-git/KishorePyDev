@@ -1,9 +1,19 @@
 ### Bonjour there,I'm Kishore Kumar 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <a href="https://in.linkedin.com/in/kishorepydev">
   <img align="left" alt="Kishore's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://t.me/imthepk">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+
+
+
+<br/>
+<br/>
 
 - 🔭 I’m currently working on Quality Enginer & Enginer at Cognizant
 - 🌱 I’m currently learning about Cucumber Framework
