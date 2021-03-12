@@ -1,5 +1,9 @@
 ### Bonjour there,I'm Kishore Kumar 👋
 
+<a href="https://in.linkedin.com/in/kishorepydev">
+  <img align="left" alt="Kishore's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 - 🔭 I’m currently working on Quality Enginer & Enginer at Cognizant
 - 🌱 I’m currently learning about Cucumber Framework
