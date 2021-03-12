@@ -1,6 +1,6 @@
 ### Bonjour there,I'm Kishore Kumar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorepydev&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <a href="https://in.linkedin.com/in/kishorepydev">
   <img align="left" alt="Kishore's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
