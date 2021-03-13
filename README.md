@@ -1,13 +1,8 @@
 ### Bonjour there,I'm Kishore Kumar 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorepydev&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-<a href="https://in.linkedin.com/in/kishorepydev">
-  <img align="left" alt="Kishore's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+
 
 
 
@@ -19,7 +14,7 @@
 - 🌱 I’m currently learning about Cucumber Framework
 - 🤔 I’m looking for help with Appium 
 - 💬 Ask me about Python,testing & Technical stuff
-- 📫 How to reach me: [Linkedlin-KishorePyD]: [https://in.linkedin.com/in/kishorepydev]
+- 📫 How to reach me: [LinkedIn - KIshorePyDev](https://www.linkedin.com/in/kishorepydev/)
 - 😄 Pronouns: I can, therefore I am.
 - ⚡ Fun fact: I love watching Tom & Jerry (till date Yes!)
 
