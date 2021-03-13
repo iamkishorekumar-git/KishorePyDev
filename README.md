@@ -1,6 +1,7 @@
-### Bonjour there,I'm [Kishore Kumar ](https://www.iamkishorekumar.in/) 👋
+### Bonjour there,I'm [Kishore Kumar ](https://www.iamkishorekumar.in/) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorepydev&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 <br/>
