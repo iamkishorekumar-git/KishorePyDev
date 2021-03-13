@@ -8,14 +8,14 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/kishorepydev/count.svg" alt="dev-akshat profile views" /> 
+  <img src="https://profile-counter.glitch.me/kishorepydev/count.svg" alt="Kishore's profile views" /> 
 </p>
 
 
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Quality Enginer & Analyst at Cognizant
+- 🔭 I’m currently working on Quality Enginner & Assurance at Cognizant
 - 🌱 I’m currently learning about Cucumber Framework
 - 🤔 I’m looking for help with Appium 
 - 💬 Ask me about Python,testing & Technical stuff
