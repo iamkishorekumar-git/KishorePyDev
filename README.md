@@ -35,4 +35,13 @@
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
 
+<h2 align="center"><samp>Github Stats</samp></h2>
+
+<a href="https://github.com/paulj1989/github-readme-stats">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=paulj1989&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" />
+</a>
+<a href="https://github.com/github-readme-stats">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=Paulj1989&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&layout=compact" />
+</a>
+
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/kishorepydev?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
