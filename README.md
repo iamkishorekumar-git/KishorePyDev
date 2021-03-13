@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Quality Enginer & Enginer at Cognizant
+- 🔭 I’m currently working on Quality Enginer & Analyst at Cognizant
 - 🌱 I’m currently learning about Cucumber Framework
 - 🤔 I’m looking for help with Appium 
 - 💬 Ask me about Python,testing & Technical stuff
