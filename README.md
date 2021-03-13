@@ -3,10 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorepydev&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 
-
-
-
-
 <br/>
 <br/>
 
