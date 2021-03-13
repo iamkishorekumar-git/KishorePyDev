@@ -22,4 +22,4 @@
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kishore's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kishorepydev&show_icons=true&count_private=true&hide=" /></a>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/kishorepydev?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
