@@ -15,10 +15,11 @@
 - 😄 Pronouns: I can, therefore I am.
 - ⚡ Fun fact: I love watching Tom & Jerry (till date Yes!)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorepydev&theme=light&hide_langs_below=1">
-
   <summary>💻 Most used languages</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorepydev&langs_count=10&layout=compact#" /></a>
+    <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kishore's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kishorepydev&show_icons=true&count_private=true&hide=" /></a>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
